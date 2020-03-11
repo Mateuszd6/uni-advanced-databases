@@ -1,0 +1,37 @@
+Timings:
+The cold timings are on the DB that was just started. I clear cache by shutting down 
+postgres and doing 'echo 3 > /proc/sys/vm/drop_caches', which drops everything and 
+then bencharked query is the first done on the DB. 'warm' benchmarks are done on the DB
+that executes these queries before (but not just) before calling the benchmark. When 
+executing the query over and over I can get some very low values, like 2ms.
+
+  K. Diks
+    cold: 145.160 ms
+    warm: 10.123 ms
+  Paul Erdos
+    cold: 300.289 ms
+    warm: 13.253 ms 
+
+Indexes:
+The only interesting index that is not PK based in (person_id, publ_id) index on
+person_publication, because the default was only (publ_id, person_id) and I needed 
+fast join both ways:
+
+
+     tablename      |          indexname           |                                                 indexdef                                                  
+--------------------+------------------------------+-----------------------------------------------------------------------------------------------------------
+ additional         | additional_pkey              | CREATE UNIQUE INDEX additional_pkey ON public.additional USING btree (id)
+ additional_content | additional_content_pkey      | CREATE UNIQUE INDEX additional_content_pkey ON public.additional_content USING btree (id)
+ citation           | citation_pkey                | CREATE UNIQUE INDEX citation_pkey ON public.citation USING btree (id)
+ crossref           | crossref_pkey                | CREATE UNIQUE INDEX crossref_pkey ON public.crossref USING btree (in_id, from_id)
+ namealias          | namealias_name_person_id_key | CREATE UNIQUE INDEX namealias_name_person_id_key ON public.namealias USING btree (name, person_id)
+ namealias          | namealias_pkey               | CREATE UNIQUE INDEX namealias_pkey ON public.namealias USING btree (id)
+ note               | note_pkey                    | CREATE UNIQUE INDEX note_pkey ON public.note USING btree (id)
+ person             | person_key_key               | CREATE UNIQUE INDEX person_key_key ON public.person USING btree (key)
+ person             | person_name_key              | CREATE UNIQUE INDEX person_name_key ON public.person USING btree (name)
+ person             | person_pkey                  | CREATE UNIQUE INDEX person_pkey ON public.person USING btree (id)
+ person_publication | person_publication_idx       | CREATE UNIQUE INDEX person_publication_idx ON public.person_publication USING btree (person_id, publ_id)
+ person_publication | person_publication_pkey      | CREATE UNIQUE INDEX person_publication_pkey ON public.person_publication USING btree (publ_id, person_id)
+ publication        | publication_key_key          | CREATE UNIQUE INDEX publication_key_key ON public.publication USING btree (key)
+ publication        | publication_pkey             | CREATE UNIQUE INDEX publication_pkey ON public.publication USING btree (id)
+

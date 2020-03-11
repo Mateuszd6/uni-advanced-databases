@@ -1,0 +1,309 @@
+[2018]
+  * [Conference]
+    Jean Moussi, Jurek Czyzowicz, Krzysztof Diks, Wojciech Rytter
+    Broadcast with Energy-Exchanging Mobile Agents Distributed on a Tree.
+
+[2017]
+  * [Conference]
+    Jean Moussi, Jurek Czyzowicz, Krzysztof Diks, Wojciech Rytter
+    Energy-Optimal Broadcast in a Tree with Mobile Agents.
+
+[2016]
+  * [Conference]
+    Jean Moussi, Jurek Czyzowicz, Krzysztof Diks, Wojciech Rytter
+    Communication Problems for Mobile Agents Exchanging Energy.
+
+[2015]
+  * [Journal Articles]
+    Jean Moussi, Jurek Czyzowicz, Krzysztof Diks, Wojciech Rytter
+    Algorithms for Communication Problems for Mobile Agents Exchanging Energy.
+
+[2010]
+  * [Conference]
+    Krzysztof Diks, Piotr Stanczyk
+    Perfect Matching for Biconnected Cubic Graphs in <i>O</i>(<i>n</i> log<sup>2</sup><i>n</i>) Time.
+
+[2008]
+  * [Conference]
+    Jan Madey, Krzysztof Diks
+    From Top Coders to Top IT Professionals.
+
+[2007]
+  * [Conference]
+    Krzysztof Diks, Piotr Sankowski
+    Dynamic Plane Transitive Closure.
+
+[2006]
+  * [Journal Articles]
+    Andrzej Pelc, Krzysztof Diks, Stefan Dobrev
+    Exploring Planar Graphs Using Unoriented Maps.
+
+[2004]
+  * [Journal Articles]
+    Andrzej Pelc, Evangelos Kranakis, Krzysztof Diks, Pierre Fraigniaud
+    Tree exploration with little memory.
+
+[2002]
+  * [Editorship]
+    Krzysztof Diks, Wojciech Rytter
+    Mathematical Foundations of Computer Science 2002, 27th International Symposium, MFCS 2002, Warsaw, Poland, August 26-30, 2002, Proceedings
+
+  * [Conference]
+    Krzysztof Diks, Lukasz Kowalik, Maciej Kurowski
+    A New 3-Color Criterion for Planar Graphs.
+
+  * [Journal Articles]
+    Andrzej Pelc, Danny Krizanc, Evangelos Kranakis, Krzysztof Diks
+    The impact of information on broadcasting time in linear radio networks.
+
+  * [Conference]
+    Andrzej Pelc, Evangelos Kranakis, Krzysztof Diks, Pierre Fraigniaud
+    Tree exploration with little memory.
+
+[2000]
+  * [Journal Articles]
+    Andrzej Pelc, Krzysztof Diks
+    Optimal Adaptive Broadcasting with a Bounded Fraction of Faulty Nodes.
+
+  * [Journal Articles]
+    Andrzej Pelc, Krzysztof Diks, Marek Piotr&oacute;w, Piotr Denejko
+    Reliable Minimum Finding Comparator Networks.
+
+[1999]
+  * [Journal Articles]
+    Andrzej Lingas, Andrzej Pelc, Krzysztof Diks
+    An Optimal Algorithm for Broadcasting Multiple Messages in Trees.
+
+  * [Conference]
+    Andrzej Pelc, Danny Krizanc, Evangelos Kranakis, Krzysztof Diks
+    The Impact of Knowledge on Broadcasting Time in Radio Networks.
+
+[1998]
+  * [Journal Articles]
+    Krzysztof Diks, Torben Hagerup
+    More General Parallel Tree Contraction: Register Allocation and Broadcasting in a Tree.
+
+  * [Journal Articles]
+    Andrzej Pelc, Evangelos Kranakis, Krzysztof Diks, Peter Ruzicka, Stefan Dobrev
+    Broadcasting in Unlabeled Hypercubes with a Linear Number of Messages.
+
+  * [Journal Articles]
+    Andrzej Pelc, Krzysztof Diks
+    System Diagnosis with Smallest Risk of Error.
+
+  * [Journal Articles]
+    Andrzej Pelc, Evangelos Kranakis, Krzysztof Diks
+    Perfect Broadcasting in Unlabeled Networks.
+
+  * [Journal Articles]
+    Andrzej Pelc, Evangelos Kranakis, Krzysztof Diks
+    Broadcasting in Unlabeled Tori.
+
+[1997]
+  * [Journal Articles]
+    Andrzej Pelc, Krzysztof Diks
+    Globally Optimal Diagnosis in Systems with Random Faults.
+
+  * [Conference]
+    Andrzej Pelc, Krzysztof Diks
+    Optimal Adaptive Broadcasting with a Bounded Fraction of Faulty Nodes (Extended Abstract).
+
+  * [Journal Articles]
+    Andrzej Pelc, Bogdan S. Chlebus, Krzysztof Diks
+    Transition-Optimal Token Distribution.
+
+  * [Journal Articles]
+    Andrzej Pelc, Krzysztof Diks, Piotr Berman
+    Reliable Broadcasting in Logarithmic Time with Byzantine Link Failures.
+
+  * [Conference]
+    Andrzej Lingas, Andrzej Pelc, Krzysztof Diks
+    An Optimal Algorithm for Broadcasting Multiple Messages in Trees.
+
+[1996]
+  * [Conference]
+    Andrzej Pelc, Krzysztof Diks
+    System Diagnosis with Smallest Risk of Error.
+
+  * [Journal Articles]
+    Artur Czumaj, Krzysztof Diks, Teresa M. Przytycka
+    Parallel Maximum Independent Set in Convex Bipartite Graphs.
+
+  * [Journal Articles]
+    Andrzej Pelc, Bogdan S. Chlebus, Krzysztof Diks
+    Reliable Broadcasting in Hypercubes with Random Link and Node Failures.
+
+  * [Journal Articles]
+    Andrzej Pelc, Krzysztof Diks
+    Efficient Gossiping by Packets in Networks with Random Faults.
+
+  * [Journal Articles]
+    Andrzej Pelc, Krzysztof Diks
+    Reliable Computations on Faulty EREW PRAM.
+
+  * [Journal Articles]
+    Andrzej Pelc, Krzysztof Diks
+    Fault-Tolerant Linear Broadcasting.
+
+  * [Journal Articles]
+    Andrzej Pelc, Krzysztof Diks
+    Broadcasting with universal lists.
+
+  * [Conference]
+    Krzysztof Diks, Torben Hagerup
+    More General Parallel Tree Contraction: Register Allocation and Broadcasting in a Tree.
+
+[1995]
+  * [Journal Articles]
+    Bogdan S. Chlebus, Krzysztof Diks, Miroslaw Kowaluk
+    O(log log n)-Time Integer Geometry on the CRCW PRAM.
+
+  * [Conference]
+    Andrzej Pelc, Krzysztof Diks
+    Broadcasting with universal lists.
+
+  * [Journal Articles]
+    Adam Malinowski, Andrzej Pelc, Evangelos Kranakis, Krzysztof Diks
+    Anonymous Wireless Rings.
+
+  * [Journal Articles]
+    Adam Malinowski, Andrzej Pelc, Krzysztof Diks
+    Token Transfer in a Faulty Network.
+
+[1994]
+  * [Journal Articles]
+    Andrzej Pelc, Bogdan S. Chlebus, Krzysztof Diks
+    Sorting on a Mesh-Connected Computer with Delaying Links.
+
+  * [Conference]
+    A. Malinowsky, Andrzej Pelc, Evangelos Kranakis, Krzysztof Diks
+    The Buffer Potential of a Network.
+
+  * [Journal Articles]
+    Adam Malinowski, Andrzej Pelc, Krzysztof Diks
+    Reliable Token Despersal with Random Faults.
+
+  * [Conference]
+    Andrzej Pelc, Krzysztof Diks, Marek Piotr&oacute;w, Piotr Denejko
+    Reliable Minimum Finding Comparator Networks.
+
+  * [Conference]
+    Andrzej Pelc, Krzysztof Diks
+    Fault-Tolerant Linear Broadcasting.
+
+  * [Conference]
+    Andrzej Pelc, Bogdan S. Chlebus, Krzysztof Diks
+    Waking up an Anonymous Faulty Network from a Single Source.
+
+  * [Journal Articles]
+    Andrzej Pelc, Bogdan S. Chlebus, Krzysztof Diks
+    Fast gossiping with short unreliable messages.
+
+  * [Journal Articles]
+    Andrzej Pelc, Bernard Mans, Danny Krizanc, Evangelos Kranakis, Krzysztof Diks
+    Optimal Coteries and Voting Schemes.
+
+  * [Journal Articles]
+    Andrzej Pelc, Bogdan S. Chlebus, Krzysztof Diks
+    Sparse Networks Supporting Efficient Reliable Broadcasting.
+
+[1993]
+  * [Journal Articles]
+    Hristo Djidjev, Imrich Vrto, Krzysztof Diks, Ondrej S&yacute;kora
+    Edge Separators of Planar and Outerplanar Graphs with Applications.
+
+  * [Journal Articles]
+    Andrzej Pelc, Krzysztof Diks
+    Fast Diagnosis of Multiprocessor Systems with Random Faults.
+
+  * [Journal Articles]
+    Andrzej Lingas, Krzysztof Diks, Oscar Garrido
+    Parallel Algorithms for Finding Maximal k-Dependent Sets and Maximal f-Matchings.
+
+  * [Conference]
+    Andrzej Pelc, Bogdan S. Chlebus, Krzysztof Diks
+    Sparse Networks Supporting Efficient Reliable Broadcasting.
+
+[1992]
+  * [Journal Articles]
+    Andrzej Pelc, Krzysztof Diks
+    Almost Safe Gossiping in Bounded Degree Networks.
+
+[1991]
+  * [Journal Articles]
+    Krzysztof Diks, Pramod Chandra P. Bhatt, Sanjeev Saxena, Tomasz Radzik, Torben Hagerup, V. C. Prasad
+    Improved Deterministic Parallel Integer Sorting
+
+  * [Journal Articles]
+    Krzysztof Diks, Wojciech Rytter
+    On Optimal Parallel Computations for Sequences of Brackets.
+
+  * [Conference]
+    Andrzej Lingas, Krzysztof Diks, Oscar Garrido
+    Parallel Algorithms for Finding Maximal k-Dependent Sets and Maximal f-Matchings.
+
+  * [Conference]
+    Andrzej Pelc, Bogdan S. Chlebus, Krzysztof Diks
+    Optimal Broadcasting in Faulty Hypercubes.
+
+[1989]
+  * [Conference]
+    Krzysztof Diks, Wojciech Rytter
+    Optimal Parallel Computations for Halin Graphs.
+
+  * [Conference]
+    Bogdan S. Chlebus, Krzysztof Diks, Tomasz Szymacha, Wojciech Rytter
+    Parallel Complexity of Lexicographically First Order Problems for Tree-Structured Graphs (Extended Abstract).
+
+  * [Conference]
+    Bogdan S. Chlebus, Krzysztof Diks, Tomasz Radzik, Torben Hagerup
+    New Simulations between CRCW PRAMs.
+
+  * [Conference]
+    Krzysztof Diks, Torben Hagerup, Wojciech Rytter
+    Optimal Parallel Algorithms For The Recognition And Colouring Outerplanar Graphs (Extended Abstract).
+
+  * [Journal Articles]
+    Krzysztof Diks, Marek Chrobak, Torben Hagerup
+    Optimal Parallel 5-Colouring of Planar Graphs.
+
+[1988]
+  * [Conference]
+    Hristo Djidjev, Imrich Vrto, Krzysztof Diks, Ondrej S&yacute;kora
+    Edge Separators for Planar Graphs and Their Applications.
+
+  * [Conference]
+    Bogdan S. Chlebus, Krzysztof Diks, Tomasz Radzik
+    Testing Isomorphism of Outerplanar Graphs in Parallel.
+
+  * [Conference]
+    Bogdan S. Chlebus, Krzysztof Diks, Tomasz Radzik, Torben Hagerup
+    Efficient Simulations Between Concurrent-Read Concurrent-Write PRAM Models.
+
+[1987]
+  * [Conference]
+    Krzysztof Diks
+    Parallel Recognition of Outerplanar Graphs.
+
+  * [Conference]
+    Bogdan S. Chlebus, Krzysztof Diks, Marek Chrobak
+    Saturating Flows in Networks.
+
+  * [Conference]
+    Krzysztof Diks, Marek Chrobak, Torben Hagerup
+    Parallel 5-Colouring of Planar Graphs.
+
+[1986]
+  * [Conference]
+    Krzysztof Diks
+    A Fast Parallel Algorithm for Six-Colouring of Planar Graphs (Extended Abstract).
+
+[1985]
+  * [Journal Articles]
+    Krzysztof Diks
+    Embeddings of Binary Trees in Lines.
+
+[1984]
+  * [Conference]
+    Krzysztof Diks
+    A note on selection networks.

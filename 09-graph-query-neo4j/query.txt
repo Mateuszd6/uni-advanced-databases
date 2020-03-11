@@ -1,0 +1,131 @@
+// Czas: 41165ms
+USING PERIODIC COMMIT 500 LOAD CSV FROM "file:///persons" AS line
+CREATE (:p { id: toInteger(line[0]), name: line[1] });
+
+// Indexy.
+// Czas: 50ms, ale potem przez jakiś czas index nie był jeszcze 'on-line'
+CREATE INDEX ON :p(id);
+CREATE INDEX ON :p(name);
+
+// Insert krawędzi bez wag.
+// Czas: 665618ms
+USING PERIODIC COMMIT 5000 LOAD CSV FROM "file:///graph" AS line
+MATCH (_p1:p {id: toInteger(line[0])})
+MATCH (_p2:p {id: toInteger(line[1])})
+MERGE (_p1)-[r:RELTYPE]-(_p2)
+RETURN COUNT(r);
+
+// Query do policznia CC. Na początku wylatywało z błędem o braku pamięci, musiałem 
+// zmienić pamięć dla serwera z 1G do 8G i wtedy zadziałało natychmiast (używając tak około 5).
+CALL algo.unionFind('p', 'RELTYPE', {
+  write: true,
+  writeProperty: 'componentId'
+})
+YIELD nodes AS Nodes, setCount AS NbrOfComponents, writeProperty AS PropertyName;
+
+// Wszystkie:
+// Czas: 17616 ms.
+Wynik:
+╒═══════╤═════════════════╕
+│"Nodes"│"NbrOfComponents"│
+╞═══════╪═════════════════╡
+│2369922│179805           │
+└───────┴─────────────────┘
+
+// 70 perc.:
+// Czas: 21572 ms.
+╒═══════╤═════════════════╕
+│"Nodes"│"NbrOfComponents"│
+╞═══════╪═════════════════╡
+│2369922│1398688          │
+└───────┴─────────────────┘
+
+// 86 perc.:
+// Czas: 24115 ms.
+╒═══════╤═════════════════╕
+│"Nodes"│"NbrOfComponents"│
+╞═══════╪═════════════════╡
+│2369922│1759750          │
+└───────┴─────────────────┘
+
+// 99 perc.:
+// Czas 16940 ms.
+╒═══════╤═════════════════╕
+│"Nodes"│"NbrOfComponents"│
+╞═══════╪═════════════════╡
+│2369922│2269731          │
+└───────┴─────────────────┘
+
+// Query znajdujące najkrótszą ścieżkę (w liczbie krawędzi) między dwoma autorami.
+MATCH (start:p{name:'Paul Erd&ouml;s'}), (end:p{name:'Krzysztof Stencel'})
+CALL algo.shortestPath.stream(start, end)
+YIELD nodeId, cost
+RETURN algo.asNode(nodeId).name AS name, cost;
+
+// Wszystkie:
+// Czas: 4318 ms.
+╒═══════════════════╤══════╕
+│"name"             │"cost"│
+╞═══════════════════╪══════╡
+│"Paul Erd&ouml;s"  │0.0   │
+├───────────────────┼──────┤
+│"John Adrian Bondy"│1.0   │
+├───────────────────┼──────┤
+│"Pawel Rzazewski"  │2.0   │
+├───────────────────┼──────┤
+│"Piotr Przymus"    │3.0   │
+├───────────────────┼──────┤
+│"Krzysztof Stencel"│4.0   │
+└───────────────────┴──────┘
+
+// 70 perc.:
+// Czas: 1097 ms.
+╒═══════════════════╤══════╕
+│"name"             │"cost"│
+╞═══════════════════╪══════╡
+│"Paul Erd&ouml;s"  │0.0   │
+├───────────────────┼──────┤
+│"Ronald L. Graham" │1.0   │
+├───────────────────┼──────┤
+│"Jeffrey D. Ullman"│2.0   │
+├───────────────────┼──────┤
+│"Jacek Sroka"      │3.0   │
+├───────────────────┼──────┤
+│"Krzysztof Stencel"│4.0   │
+└───────────────────┴──────┘
+
+// 86 perc.:
+// Czas 2056 ms.
+╒═════════════════════╤══════╕
+│"name"               │"cost"│
+╞═════════════════════╪══════╡
+│"Paul Erd&ouml;s"    │0.0   │
+├─────────────────────┼──────┤
+│"Noga Alon"          │1.0   │
+├─────────────────────┼──────┤
+│"Frank Neven"        │2.0   │
+├─────────────────────┼──────┤
+│"Jan Van den Bussche"│3.0   │
+├─────────────────────┼──────┤
+│"Jacek Sroka"        │4.0   │
+├─────────────────────┼──────┤
+│"Krzysztof Stencel"  │5.0   │
+└─────────────────────┴──────┘
+
+// 99 perc.:
+// Czas: 1805 ms.
+// Brak ścieżki.
+(no changes, no records)
+
+// Ustawienie wag. Wczytywanie dwa razy nie jest zbyt optymalne, 
+// ale do policzenia składowych nie potrzebowałem wag, więc to 
+// dodałem później.
+// Czas: 430768 ms.
+USING PERIODIC COMMIT 5000 LOAD CSV FROM "file:///graph" AS line
+MATCH (_p1:p {id: toInteger(line[0])})
+MATCH (_p2:p {id: toInteger(line[1])})
+MATCH (_p1)-[r:RELTYPE]-(_p2)
+SET r.w1 = toInteger(line[2])
+SET r.w2 = toInteger(line[4])
+SET r.w3 = toInteger(line[5])
+RETURN COUNT(r);

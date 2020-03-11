@@ -1,0 +1,909 @@
+[2013]
+  * [Parts in Books and Collections]
+    Paul Erd&ouml;s
+    Some of My Favorite Problems and Results.
+
+  * [Parts in Books and Collections]
+    Neil Hindman, Paul Erd&ouml;s, Tomasz Luczak, Vitaly Bergelson
+    Dense Difference Sets and Their Combinatorial Structure.
+
+[2006]
+  * [Journal Articles]
+    Daniel J. Kleitman, Paul Erd&ouml;s
+    Extremal problems among subsets of a set.
+
+  * [Journal Articles]
+    Amram Meir, Paul Erd&ouml;s, Paul Tur&aacute;n, Vera T. S&oacute;s
+    On some applications of graph theory, I.
+
+[2003]
+  * [Journal Articles]
+    Paul Erd&ouml;s, Richard A. Duke, Vojtech R&ouml;dl
+    On large intersecting subfamilies of uniform setfamilies.
+
+  * [Journal Articles]
+    Geert C. E. Prins, Paul Erd&ouml;s, Renu C. Laskar, Stephen T. Hedetniemi
+    On the equality of the partial Grundy and upper ochromatic numbers of graphs.
+
+[2002]
+  * [Journal Articles]
+    David S. Gunderson, Michael Molloy, Noga Alon, Paul Erd&ouml;s
+    A Ramsey-type problem and the Tur&aacute;n numbers.
+
+  * [Journal Articles]
+    B&eacute;la Bollob&aacute;s, Cecil C. Rousseau, Paul Erd&ouml;s, Ralph J. Faudree, Richard H. Schelp
+    Random induced graphs.
+
+[2001]
+  * [Journal Articles]
+    Jen&ouml; Lehel, Michael S. Jacobson, Paul Erd&ouml;s, Ralph J. Faudree, Ronald J. Gould
+    Edge disjoint monochromatic triangles in 2-colored graphs.
+
+[1999]
+  * [Journal Articles]
+    Bruce Rothschild, Paul Erd&ouml;s, Vera T. S&oacute;s, Zolt&aacute;n F&uuml;redi
+    Induced subgraphs of given sizes.
+
+  * [Journal Articles]
+    Cecil C. Rousseau, Paul Erd&ouml;s, Ralph J. Faudree, Richard H. Schelp
+    The number of cycle lengths in graphs of given minimum degree and girth.
+
+  * [Journal Articles]
+    Grigori Kolesnik, Paul Erd&ouml;s
+    Prime power divisors of binomial coefficients.
+
+  * [Journal Articles]
+    Andr&aacute;s S&aacute;rk&ouml;zy, Csaba S&aacute;ndor, Gerard Rauzy, Paul Erd&ouml;s, Vsevolod F. Lev
+    Greedy algorithm, arithmetic progressions, subset sums and divisibility.
+
+  * [Journal Articles]
+    Esther Szekeres, Janice L. Malouf, J. L. Selfridge, Paul Erd&ouml;s
+    Subsets of an interval whose product is a power.
+
+  * [Journal Articles]
+    Andr&aacute;s S&aacute;rk&ouml;zy, Christian Mauduit, Paul Erd&ouml;s
+    On arithmetic properties of integers with missing digits II: Prime factors.
+
+  * [Journal Articles]
+    Gerald Tenenbaum, Paul Erd&ouml;s
+    Ensembles de multiples de suites finies.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, P&eacute;ter P. P&aacute;lfy
+    On the orders of directly indecomposable groups.
+
+  * [Journal Articles]
+    Andr&aacute;s Gy&aacute;rf&aacute;s, Paul Erd&ouml;s
+    Split and balanced colorings of complete graphs.
+
+  * [Journal Articles]
+    Amites Sarkar, B&eacute;la Bollob&aacute;s, Paul Erd&ouml;s
+    Extremal graphs for weights.
+
+  * [Journal Articles]
+    Jean-Louis Nicolas, Marc Del&eacute;glise, Paul Erd&ouml;s
+    Sur les ensembles repr&eacute;sent&eacute;s par les partitions d'un entier n<sup>1</sup>.
+
+  * [Journal Articles]
+    John Adrian Bondy, Paul Erd&ouml;s, Siemion Fajtlowicz
+    Graphs of diameter two with no 4-circuits.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Richard Roxby Hall
+    On the angular distribution of Gaussian integers with fixed norm.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Tom Fowler
+    Finding Large p-Colored Diameter Two Subgraphs.
+
+  * [Journal Articles]
+    Giuseppe Melfi, Jean-Marc Deshouillers, Paul Erd&ouml;s
+    On a question about sum-free sequences.
+
+  * [Journal Articles]
+    Gergely Harcos, J&aacute;nos Pach, Paul Erd&ouml;s
+    Popular distances in 3-space.
+
+[1998]
+  * [Journal Articles]
+    B&eacute;la Bollob&aacute;s, Paul Erd&ouml;s
+    Graphs of Extremal Weights.
+
+  * [Journal Articles]
+    Andr&aacute;s Gy&aacute;rf&aacute;s, Mikl&oacute;s Ruszink&oacute;, Paul Erd&ouml;s
+    How to decrease the diameter of triangle-free graphs.
+
+[1997]
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    Some old and new problems in various branches of combinatorics.
+
+  * [Journal Articles]
+    G&aacute;bor N. S&aacute;rk&ouml;zy, Paul Erd&ouml;s
+    On cycles in the coprime graph of integers.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    Some recent problems and results in graph theory.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Peter C. Fishburn
+    Minimum Planar Sets with Maximum Equidistance Counts.
+
+  * [Journal Articles]
+    A. G. Meyer, Alexandr V. Kostochka, David S. Gunderson, Paul Erd&ouml;s, Walter A. Deuber
+    Intersection Statements for Systems of Sets.
+
+  * [Journal Articles]
+    L&aacute;szl&oacute; Pyber, Paul Erd&ouml;s
+    Covering a graph by complete bipartite graphs.
+
+  * [Journal Articles]
+    Andr&aacute;s Gy&aacute;rf&aacute;s, Paul Erd&ouml;s
+    A Variant of the Classical Ramsey Problem.
+
+  * [Journal Articles]
+    Andr&aacute;s Gy&aacute;rf&aacute;s, Guantao Chen, Paul Erd&ouml;s, Richard H. Schelp
+    A Class of Edge Critical 4-Chromatic Graphs.
+
+  * [Journal Articles]
+    Craig A. Tovey, Neil J. Calkin, Paul Erd&ouml;s
+    New Ramsey Bounds from Cyclic Graphs of Prime Order.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Peter C. Fishburn
+    Distinct distances in finite planar sets.
+
+  * [Journal Articles]
+    Andr&aacute;s Gy&aacute;rf&aacute;s, Paul Erd&ouml;s, Yoshiharu Kohayakawa
+    The size of the largest bipartite subgraphs.
+
+[1996]
+  * [Journal Articles]
+    Mordechai Lewin, Paul Erd&ouml;s
+    d-complete sequences of integers.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Richard H. Schelp, Talmage James Reid, William Staton
+    Sizes of graphs with induced subgraphs of large maximum degree.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Peter C. Fishburn
+    Maximum planar sets that determine k distances.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Peter Hamburger, Raymond E. Pippert, William D. Weakley
+    Hypercube subgraphs with minimal detours.
+
+  * [Journal Articles]
+    Michael Krivelevich, Noga Alon, Paul Erd&ouml;s, Ron Holzman
+    On <i>k</i>-saturated graphs with restrictions on the degrees.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Pavel Valtr, Zsolt Tuza
+    Ramsey-remainder.
+
+  * [Journal Articles]
+    Andr&aacute;s Gy&aacute;rf&aacute;s, Paul Erd&ouml;s, Tomasz Luczak
+    Graphs in which each C<sub>4</sub> spans K<sub>4</sub>.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Tibor Gallai, Zsolt Tuza
+    Covering and independence in triangle structures.
+
+  * [Journal Articles]
+    Guantao Chen, Paul Erd&ouml;s, William Staton
+    Proof of a Conjecture of Bollob's on Nested Cycles.
+
+[1995]
+  * [Journal Articles]
+    Paul Erd&ouml;s, Peter C. Fishburn
+    Multiplicities of Interpoint Distances in Finite Planar Sets.
+
+  * [Journal Articles]
+    George B. Purdy, Paul Erd&ouml;s
+    Two Combinatorial Problems in the Plane.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Ralph J. Faudree, Richard H. Schelp, Talmage James Reid, William Staton
+    Degree sequence and independence in K(4)-free graphs.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Peter Winkler 0001, Stephen Suen
+    On the Size of a Random Maximal Graph.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Vojtech R&ouml;dl
+    Covering of r-Graphs by Complete r-Partite Subgraphs.
+
+  * [Journal Articles]
+    David S. Gunderson, Paul Erd&ouml;s, Ronald J. Gould, Zolt&aacute;n F&uuml;redi
+    Extremal Graphs for Intersecting Triangles.
+
+  * [Journal Articles]
+    Arie Bialostocki, Hanno Lefmann, Paul Erd&ouml;s
+    Monochromatic and zero-sum sets of nondecreasing diameter.
+
+  * [Journal Articles]
+    Andr&aacute;s S&aacute;rk&ouml;zy, Paul Erd&ouml;s, Vera T. S&oacute;s
+    On product representations of powers, I.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Peter C. Fishburn
+    Intervertex Distances in Convex Polygons.
+
+[1994]
+  * [Journal Articles]
+    Edward A. Bertram, Jozef Sir&aacute;n, Paul Erd&ouml;s, Peter Hor&aacute;k, Zsolt Tuza
+    Local and global average degree in graphs and multigraphs.
+
+  * [Journal Articles]
+    Andr&aacute;s Gy&aacute;rf&aacute;s, Paul Erd&ouml;s, Tomasz Luczak
+    Independet Transversals in Sparse Partite Hypergraphs.
+
+  * [Journal Articles]
+    Boris Aronov, Daniel J. Kleitman, J&aacute;nos Pach, Leonard J. Schulman, Michael Klugerman, Paul Erd&ouml;s, Wayne Goddard
+    Crossing Families.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Peter C. Fishburn
+    A Postscript on Distances in Convex n-Gons.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Tomasz Luczak
+    Change of Leadership in a Random Graph Process.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    Problems and results in discrete mathematics.
+
+  * [Journal Articles]
+    Andr&aacute;s S&aacute;rk&ouml;zy, Paul Erd&ouml;s, Vera T. S&oacute;s
+    On additive properties of general sequences.
+
+  * [Journal Articles]
+    Andr&aacute;s Hajnal, Endre Szemer&eacute;di, Mikl&oacute;s Simonovits, Paul Erd&ouml;s, Vera T. S&oacute;s
+    Tur&aacute;n-Ramsey Theorems and K<sup>p</sup>-Independence Numbers.
+
+  * [Journal Articles]
+    Cecil C. Rousseau, Paul Erd&ouml;s, Ralph J. Faudree, Richard H. Schelp
+    A local density condition for triangles.
+
+  * [Journal Articles]
+    Cecil C. Rousseau, Paul Erd&ouml;s, Ralph J. Faudree
+    Extremal problems and generalized degrees.
+
+[1993]
+  * [Journal Articles]
+    Cecil C. Rousseau, Guantao Chen, Paul Erd&ouml;s, Richard H. Schelp
+    Ramsey Problems Involving Degrees in Edge-colored Complete Graphs of Vertices Belonging to Monochromatic Subgraphs.
+
+  * [Journal Articles]
+    Cecil C. Rousseau, Paul Erd&ouml;s
+    The size Ramsey number of a complete bipartite graph.
+
+  * [Journal Articles]
+    B&eacute;la Bollob&aacute;s, Douglas B. West, Joel H. Spencer, Paul Erd&ouml;s
+    Clique coverings of the edges of a random graph.
+
+  * [Journal Articles]
+    Endre Makai, J&aacute;nos Pach, Paul Erd&ouml;s
+    Nearly Equal Distances in the Plane.
+
+  * [Journal Articles]
+    Imre Z. Ruzsa, J&aacute;nos Pach, Paul Erd&ouml;s, Zolt&aacute;n F&uuml;redi
+    The grid revisted.
+
+  * [Journal Articles]
+    Edward T. Ordman, Paul Erd&ouml;s, Yechezkel Zalcstein
+    Clique Partitions of Chordal Graphs.
+
+  * [Journal Articles]
+    L. Bruce Richmond, Paul Erd&ouml;s
+    On graphical partitions.
+
+  * [Journal Articles]
+    Andr&aacute;s Hajnal, Endre Szemer&eacute;di, Mikl&oacute;s Simonovits, Paul Erd&ouml;s, Vera T. S&oacute;s
+    Tur&aacute;n-Ramsey theorems and simple asymptotically extremal structures.
+
+  * [Journal Articles]
+    Cecil C. Rousseau, Paul Erd&ouml;s, Ralph J. Faudree, Richard H. Schelp
+    Ramsey Size Linear Graphs.
+
+  * [Journal Articles]
+    Fred Galvin, Paul Erd&ouml;s
+    Monochromatic infinite paths.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    The Giant Component 1960-1993.
+
+[1992]
+  * [Journal Articles]
+    Paul Erd&ouml;s, Tibor Gallai, Zsolt Tuza
+    Covering the cliques of a graph with vertices.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    In memory of Tibor Gallai.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    An Extremal Problem.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    Optimum Multiple Access Coding (D.B. Jevti&#263;).
+
+  * [Journal Articles]
+    Cecil C. Rousseau, Paul Erd&ouml;s, Ralph J. Faudree
+    Extremal problems involving vertices and edges on odd cycles.
+
+  * [Journal Articles]
+    Alan D. Taylor, Andreas Blass, Paul Erd&ouml;s
+    Diverse Homogeneous Sets.
+
+  * [Journal Articles]
+    Andr&aacute;s S&aacute;rk&ouml;zy, Paul Erd&ouml;s
+    Arithmetic progressions in subset sums.
+
+  * [Journal Articles]
+    D. Frank Hsu, Paul Erd&ouml;s
+    Distributed Loop Network with Minimum Transmission Delay.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Richard A. Duke, Vojtech R&ouml;dl
+    Cycle-connected graphs.
+
+  * [Journal Articles]
+    Herbert Taylor, Imre Z. Ruzsa, Paul Erd&ouml;s, Ronald L. Graham
+    Bounds for arrays of dots with distinct slopes or lengths.
+
+[1991]
+  * [Journal Articles]
+    David Avis, J&aacute;nos Pach, Paul Erd&ouml;s
+    Distinct Distances Determined By Subsets of a Point Set in Space.
+
+  * [Journal Articles]
+    Dieter Kratsch, John G. Gimbel, Paul Erd&ouml;s
+    Some extremal results in cochromatic and dichromatic theory.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Siemion Fajtlowicz, William Staton
+    Degree sequences in triangle-free graphs.
+
+  * [Journal Articles]
+    Hal A. Kierstead, Paul Erd&ouml;s, William T. Trotter
+    The Dimension of Random Ordered Sets.
+
+  * [Conference]
+    Boris Aronov, Daniel J. Kleitman, J&aacute;nos Pach, Leonard J. Schulman, Michael Klugerman, Paul Erd&ouml;s, Wayne Goddard
+    Crossing Families.
+
+  * [Journal Articles]
+    Jean A. Larson, Paul Erd&ouml;s
+    Matchings from a set below to a set above.
+
+  * [Journal Articles]
+    Andr&aacute;s Gy&aacute;rf&aacute;s, L&aacute;szl&oacute; Pyber, Paul Erd&ouml;s
+    Vertex coverings by monochromatic cycles and trees.
+
+  * [Journal Articles]
+    Fred Galvin, Paul Erd&ouml;s
+    Some Ramsey-type theorems.
+
+  * [Journal Articles]
+    Andr&aacute;s Hajnal, Paul Erd&ouml;s, Zsolt Tuza
+    Local constraints ensuring small representing sets.
+
+  * [Journal Articles]
+    Joel H. Spencer, Paul Erd&ouml;s
+    Lopsided Lov&aacute;sz Local Lemma and Latin transversals.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Peter C. Fishburn, Zolt&aacute;n F&uuml;redi
+    Midpoints of Diagonals of Convex <i>n</i>-GONS.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Zolt&aacute;n F&uuml;redi, Zsolt Tuza
+    Saturated r-uniform hypergraphs.
+
+[1990]
+  * [Journal Articles]
+    J&aacute;nos Pach, Paul Erd&ouml;s
+    Variation on the theme of repeated distances.
+
+  * [Journal Articles]
+    Allen R. Freedman, Paul Erd&ouml;s, Tom C. Brown
+    Quasi-progressions and descending waves.
+
+  * [Journal Articles]
+    H. Joseph Straight, John G. Gimbel, Paul Erd&ouml;s
+    Chromatic Number Versus Cochromatic Number in Graphs with Bounded Clique Number.
+
+  * [Journal Articles]
+    Cecil C. Rousseau, Paul Erd&ouml;s, Ralph J. Faudree, Richard H. Schelp
+    Subgraphs of minimal degree k.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, P&eacute;ter Komj&aacute;th
+    Countable Decompositions of R<sup>2</sup> and R<sup>3</sup>.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Prasad Tetali
+    Representations of Integers as the Sum of k Terms.
+
+  * [Conference]
+    Endre Makai, J&aacute;nos Pach, Joel H. Spencer, Paul Erd&ouml;s
+    Gaps in Difference Sets, and the Graph of Nearly Equal Distances.
+
+  * [Journal Articles]
+    D. K. Skilton, Paul Erd&ouml;s, Roger B. Eggleton
+    Colouring prime distance graphs.
+
+[1989]
+  * [Journal Articles]
+    Allen J. Schwenk, Carsten Thomassen, Paresh J. Malde, Paul Erd&ouml;s, Yousef Alavi
+    Tight bounds on the chromatic sum of a connected graph.
+
+  * [Journal Articles]
+    Anthony B. Evans, Paul Erd&ouml;s
+    Representations of graphs and orthogonal latin square graphs.
+
+  * [Journal Articles]
+    Andr&aacute;s Gy&aacute;rf&aacute;s, Paul Erd&ouml;s, Ralph J. Faudree, Richard H. Schelp
+    Domination in colored complete graphs.
+
+  * [Journal Articles]
+    Katalin Vesztergombi, L&aacute;szl&oacute; Lov&aacute;sz 0001, Paul Erd&ouml;s
+    On the Graph of Large Distance.
+
+  * [Journal Articles]
+    Andr&aacute;s Gy&aacute;rf&aacute;s, Edward T. Ordman, Paul Erd&ouml;s, Yechezkel Zalcstein
+    The size of chordal, interval and threshold subgraphs.
+
+  * [Journal Articles]
+    Noga Alon, Paul Erd&ouml;s
+    Disjoint Edges in Geometric Graphs.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Ronald L. Graham, Stefan A. Burr, Vera T. S&oacute;s
+    Maximal antiramsey graphs and the strong chromatic number.
+
+  * [Journal Articles]
+    Joel H. Spencer, Paul Erd&ouml;s
+    Monochromatic sumsets.
+
+  * [Journal Articles]
+    Andr&aacute;s Hajnal, Paul Erd&ouml;s
+    Ramsey-type theorems.
+
+  * [Journal Articles]
+    J&aacute;nos Pach, Paul Erd&ouml;s, Richard Pollack, Zsolt Tuza
+    Radius, diameter, and minimum degree.
+
+  * [Journal Articles]
+    Andr&aacute;s S&aacute;rk&ouml;zy, Jean-Louis Nicolas, Paul Erd&ouml;s
+    On the number of partitions of n without a given subsum (I).
+
+  * [Journal Articles]
+    Andr&aacute;s Hajnal, Paul Erd&ouml;s
+    On the number of distinct induced subgraphs of a graph.
+
+[1988]
+  * [Journal Articles]
+    J&aacute;nos Pach, Joel H. Spencer, Paul Erd&ouml;s, Ralph J. Faudree
+    How to make a graph bipartite.
+
+  * [Journal Articles]
+    Cecil C. Rousseau, Paul Erd&ouml;s, Ralph J. Faudree, Richard H. Schelp
+    Extremal theory and bipartite graph-tree Ramsey numbers.
+
+  * [Journal Articles]
+    Edward T. Ordman, Paul Erd&ouml;s, Ralph J. Faudree
+    Clique partitions and clique coverings.
+
+  * [Journal Articles]
+    Hans Riesel, Paul Erd&ouml;s
+    On Admissible Constellations of Consecutive Primes.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    A tribute to Torrence Parsons.
+
+  * [Journal Articles]
+    Nathan Linial, Paul Erd&ouml;s, Ron Aharoni
+    Optima of dual integer linear programs.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    Problems and results in combinatorial analysis and graph theory.
+
+  * [Journal Articles]
+    K. Vijayan, Lou Caccetta, Paul Erd&ouml;s
+    Graphs with unavoidable subgraphs with large degrees.
+
+  * [Journal Articles]
+    Chris D. Godsil, Paul Erd&ouml;s, Steven G. Krantz, Torrence D. Parsons
+    Intersection Graphs for Families of Balls in R<sup>n</sup>.
+
+  * [Journal Articles]
+    J&aacute;nos Pach, Joel H. Spencer, Mark Goldberg, Paul Erd&ouml;s
+    Cutting a graph into two dissimilar halves.
+
+  * [Journal Articles]
+    Gabriel M. Silberman, Israel Koren, Paul Erd&ouml;s, Shlomo Moran, Shmuel Zaks
+    Minimum-Diameter Cyclic Arrangements in Mapping Data-Flow Graphs onto VLSI Arrays.
+
+  * [Journal Articles]
+    David Avis, J&aacute;nos Pach, Paul Erd&ouml;s
+    Repeated distances in space.
+
+[1987]
+  * [Journal Articles]
+    Cecil C. Rousseau, Michael S. Jacobson, Paul Erd&ouml;s, Ralph J. Faudree, Richard H. Schelp, Ronald J. Gould, Stefan A. Burr
+    Goodness of trees for generalized books.
+
+  * [Journal Articles]
+    J. W. Kennedy, Paul Erd&ouml;s
+    k-Connectivity in Random Graphs.
+
+  * [Journal Articles]
+    Cecil C. Rousseau, Paul Erd&ouml;s, Ralph J. Faudree, Richard H. Schelp
+    A Ramsey problem of Harary on graphs with prescribed size.
+
+  * [Journal Articles]
+    Nathan Linial, Paul Erd&ouml;s, Shlomo Moran
+    Extremal problems on permutations under cyclic equivalence.
+
+  * [Journal Articles]
+    Fan Chung Graham, Gary Chartrand, Ortrud R. Oellermann, Paul Erd&ouml;s, Ronald L. Graham, Yousef Alavi
+    Highly irregular graphs.
+
+  * [Journal Articles]
+    Fan Chung Graham, Paul Erd&ouml;s
+    On unavoidable hypergraphs.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Renu C. Laskar, Stephen T. Hedetniemi, W. R. Hare
+    On the equality of the grundy and ochromatic numbers of a graph.
+
+[1986]
+  * [Journal Articles]
+    Michael E. Saks, Paul Erd&ouml;s, Vera T. S&oacute;s
+    Maximum induced trees in graphs.
+
+  * [Journal Articles]
+    &Aacute;kos Seress, Andr&aacute;s Hajnal, Paul Erd&ouml;s, P&eacute;ter Komj&aacute;th, Vojtech R&ouml;dl, Zolt&aacute;n F&uuml;redi
+    Coloring graphs with locally few colors.
+
+  * [Journal Articles]
+    Dominique de Caen, Nicholas C. Wormald, Norman J. Pullmann, Paul Erd&ouml;s
+    Extremal clique coverings of complementary graphs.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    On some metric and combinatorial geometric problems.
+
+  * [Journal Articles]
+    Marcel Ern&eacute;, Paul Erd&ouml;s
+    Clique numbers of graphs.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    Two problems in extremal graph theory.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Peter Frankl, Vojtech R&ouml;dl
+    The asymptotic number of graphs not containing a fixed subgraph and a problem for hypergraphs having no exponent.
+
+[1985]
+  * [Conference]
+    Edward T. Ordman, Paul Erd&ouml;s, Yechezkel Zalcstein
+    Bounds on threshold dimension and disjoint threshold coverings (abstract only).
+
+  * [Journal Articles]
+    Mohamed M. El-Zahar, Paul Erd&ouml;s
+    On the existence of two non-neighboring subgraphs in a graph.
+
+  * [Journal Articles]
+    Noga Alon, Paul Erd&ouml;s
+    An Application of Graph Theory to Additive Number Theory.
+
+  * [Journal Articles]
+    Fan Chung Graham, Paul Erd&ouml;s, Ronald L. Graham, Tom C. Brown
+    Quantitative Forms of a Theorem of Hilbert.
+
+  * [Journal Articles]
+    Cecil C. Rousseau, Paul Erd&ouml;s, Ralph J. Faudree, Richard H. Schelp
+    Multipartite graph - space graph Ramsey numbers.
+
+  * [Journal Articles]
+    Andr&aacute;s Hajnal, Paul Erd&ouml;s
+    Chromatic number of finite and infinite graphs and hypergraphs.
+
+  * [Journal Articles]
+    D. K. Skilton, Paul Erd&ouml;s, Roger B. Eggleton
+    Colouring the real line.
+
+  * [Journal Articles]
+    Fan Chung Graham, Joel H. Spencer, Paul Erd&ouml;s
+    Extremal subgraphs for two graphs.
+
+  * [Journal Articles]
+    Claude Berge, Loo Keng Hua, Paul Erd&ouml;s, Richard Rado, Sin Hitotumatu
+    Notes of welcome.
+
+  * [Conference]
+    Nathan Linial, Paul Erd&ouml;s, Ron Aharoni
+    Dual Integer Linear Programs and the Relationship between their Optima
+
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    Ulam, the man and the mathematician.
+
+  * [Journal Articles]
+    Joel C. Fowler, Paul Erd&ouml;s, Richard M. Wilson 0001, Vera T. S&oacute;s
+    On 2-Designs.
+
+  * [Journal Articles]
+    Douglas B. West, Paul Erd&ouml;s
+    A note on the interval number of a graph.
+
+[1984]
+  * [Journal Articles]
+    Paul Erd&ouml;s, Zbigniew Palka
+    Addendum to "trees in random graphs".
+
+  * [Journal Articles]
+    Neil Hindman, Paul Erd&ouml;s
+    Enumeration of intersecting families.
+
+[1983]
+  * [Journal Articles]
+    J&aacute;nos Pach, Paul Erd&ouml;s
+    On a Quasi-Ramsey problem.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Zbigniew Palka
+    Trees in random graphs.
+
+  * [Journal Articles]
+    Douglas R. Stinson, Paul Erd&ouml;s, Ronald C. Mullin, Vera T. S&oacute;s
+    Finite linear spaces and projective planes.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Stefan A. Burr
+    Generalizations of a Ramsey-theoretic result of chv&aacute;tal.
+
+  * [Journal Articles]
+    Andr&aacute;s Hajnal, Endre Szemer&eacute;di, Paul Erd&ouml;s, Vera T. S&oacute;s
+    More results on Ramsey - Tur&aacute;n Type problems.
+
+  * [Journal Articles]
+    Mikl&oacute;s Simonovits, Paul Erd&ouml;s
+    Supersaturated graphs and hypergraphs.
+
+  * [Journal Articles]
+    Fan Chung Graham, Paul Erd&ouml;s
+    On unavoidable graphs.
+
+  * [Journal Articles]
+    Edgar M. Palmer, Paul Erd&ouml;s, Robert W. Robinson
+    Local connectivity of a random graph.
+
+[1982]
+  * [Journal Articles]
+    Fan Chung Graham, Paul Erd&ouml;s, Ronald L. Graham
+    Minimal Decompositions of Hypergraphs into Mutually Isomorphic Subhypergraphs.
+
+  * [Journal Articles]
+    Ernst G. Straus, George B. Purdy, Paul Erd&ouml;s
+    On a problem in combinatorial geometry.
+
+  * [Journal Articles]
+    Cecil C. Rousseau, Paul Erd&ouml;s, Ralph J. Faudree, Richard H. Schelp
+    Graphs with certain families of spanning trees.
+
+  * [Journal Articles]
+    Arthur M. Hobbs, C. Payan, Paul Erd&ouml;s
+    Disjoint cliques and disjoint maximal independent sets of vertices in graphs.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    Personal reminiscences and remarks on the mathematical work of Tibor Gallai.
+
+  * [Journal Articles]
+    Mikl&oacute;s Simonovits, Paul Erd&ouml;s
+    Compactness results in extremal graph theory.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Peter Frankl, Zolt&aacute;n F&uuml;redi
+    Families of Finite Sets in Which No Set Is Covered by the Union of Two Others.
+
+  * [Journal Articles]
+    Cecil C. Rousseau, Paul Erd&ouml;s, Ralph J. Faudree, Richard H. Schelp, Stefan A. Burr
+    Ramsey-minimal graphs for forests.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Vera T. S&oacute;s
+    On Ramsey - Tur&aacute;n type theorems for hypergraphs.
+
+[1981]
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    On the combinatorial problems which I would most like to see solved.
+
+  * [Journal Articles]
+    Cecil C. Rousseau, Paul Erd&ouml;s, Ralph J. Faudree, Richard H. Schelp, Stefan A. Burr
+    Ramsey-minimal graphs for star-forests.
+
+  * [Journal Articles]
+    Fan Chung Graham, Paul Erd&ouml;s, Ronald L. Graham
+    Minimal decompositions of graphs into mutually isomorphic subgraphs.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Siemion Fajtlowicz
+    On the conjecture of Haj&oacute;s.
+
+  * [Journal Articles]
+    Endre Szemer&eacute;di, J&aacute;nos Koml&oacute;s, Mikl&oacute;s Ajtai, Paul Erd&ouml;s
+    On Tur&aacute;ns theorem for sparse graphs.
+
+  * [Journal Articles]
+    George Mills, Paul Erd&ouml;s
+    Some Bounds for the Ramsey-Paris-Harrington Numbers.
+
+[1980]
+  * [Journal Articles]
+    J&aacute;nos Pach, Paul Erd&ouml;s
+    On a problem of L. Fejes T&oacute;th.
+
+  * [Journal Articles]
+    Alan J. Hoffman, Paul Erd&ouml;s, Siemion Fajtlowicz
+    Maximum degree in graphs of diameter 2.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    Some Applications of Ramsey's Theorem to Additive Number Theory.
+
+  * [Journal Articles]
+    L&aacute;szl&oacute; Babai, Paul Erd&ouml;s, Stanley M. Selkow
+    Random Graph Isomorphism.
+
+  * [Journal Articles]
+    B&eacute;la Bollob&aacute;s, Paul A. Catlin, Paul Erd&ouml;s
+    Hadwiger's Conjecture is True for Almost Every Graph.
+
+[1978]
+  * [Journal Articles]
+    Endre Szemer&eacute;di, Paul Erd&ouml;s
+    Combinatorial Properties of Systems of Sets.
+
+  * [Journal Articles]
+    Paul C. Kainen, Paul Erd&ouml;s, Stephen H. Hechler
+    On finite superuniversal graphs.
+
+  * [Journal Articles]
+    George B. Purdy, Paul Erd&ouml;s
+    Some Combinatorial Problems in the Plane.
+
+  * [Journal Articles]
+    Arthur M. Hobbs, Paul Erd&ouml;s
+    A class of Hamiltonian regular graphs.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, William T. Trotter
+    When the cartesian product of directed cycles is Hamiltonian.
+
+  * [Journal Articles]
+    Cecil C. Rousseau, Paul Erd&ouml;s, Ralph J. Faudree, Richard H. Schelp
+    On cycle - Complete graph ramsey numbers.
+
+  * [Journal Articles]
+    Krishnaswami Alladi, Paul Erd&ouml;s, V. E. Hoggatt Jr.
+    On additive partitions of integers.
+
+[1977]
+  * [Journal Articles]
+    Arthur M. Hobbs, Paul Erd&ouml;s
+    Hamiltonian cycles in regular graphs of moderate degree.
+
+  * [Journal Articles]
+    Amram Meir, Paul Erd&ouml;s
+    On total matching numbers and total covering numbers of complementary graphs.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    Paul Tur&aacute;n, 1910-1976: His work in graph theory.
+
+  * [Journal Articles]
+    D. T. Busolini, Paul Erd&ouml;s
+    On a problem in extremal graph theory.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Robin J. Wilson
+    On the chromatic index of almost all graphs.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    A note of welcome.
+
+[1976]
+  * [Journal Articles]
+    Bruce Rothschild, Marshall L. Cates, Neil Hindman, Paul Erd&ouml;s
+    Partition Theorems for Subsets of Vector Spaces.
+
+  * [Journal Articles]
+    B&eacute;la Bollob&aacute;s, Paul Erd&ouml;s
+    On a Ramsey-Tur&aacute;n type problem.
+
+[1975]
+  * [Journal Articles]
+    B&eacute;la Bollob&aacute;s, Endre Szemer&eacute;di, Paul Erd&ouml;s
+    On complete subgraphs of r-chromatic graphs.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Ronald L. Graham
+    On Packing Squares with Equal Squares.
+
+  * [Journal Articles]
+    Michel Deza, Paul Erd&ouml;s
+    Extension de quelques theoremes sur les densites de series d'elements de n a des series de sous-ensembles finis de n.
+
+[1974]
+  * [Journal Articles]
+    B. Andr&aacute;sfai, Paul Erd&ouml;s, Vera T. S&oacute;s
+    On the connection between chromatic number, maximal clique and minimal degree of a graph.
+
+  * [Journal Articles]
+    Daniel J. Kleitman, Paul Erd&ouml;s
+    Extremal problems among subsets of a set.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    Remark on a Theorem of Lindstr&ouml;m.
+
+[1973]
+  * [Journal Articles]
+    Bruce Rothschild, Ernst G. Straus, Joel H. Spencer, Paul Erd&ouml;s, P. Montgomery, Ronald L. Graham
+    Euclidean Ramsey Theorems I.
+
+  * [Journal Articles]
+    Patrik E. O'Neil, Paul Erd&ouml;s
+    On a generalization of Ramsey numbers.
+
+  * [Journal Articles]
+    Mikl&oacute;s Simonovits, Paul Erd&ouml;s
+    On a valence problem in extremal graph theory.
+
+  * [Journal Articles]
+    J. L. Selfridge, Paul Erd&ouml;s
+    On a Combinatorial Game.
+
+[1972]
+  * [Journal Articles]
+    Paul Erd&ouml;s, Vasek Chv&aacute;tal
+    A note on Hamiltonian circuits.
+
+  * [Journal Articles]
+    Amram Meir, Paul Erd&ouml;s, Paul Tur&aacute;n, Vera T. S&oacute;s
+    On some applications of graph theory, I.
+
+  * [Journal Articles]
+    Paul Erd&ouml;s, Vasek Chv&aacute;tal, Z. Hedrl&iacute;n
+    Ramsey's theorem and self-complementary graphs.
+
+[1971]
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    On some extremal problems on r-graphs.
+
+  * [Journal Articles]
+    Joel H. Spencer, Paul Erd&ouml;s
+    Imbalances in k-colorations.
+
+[1959]
+  * [Journal Articles]
+    Paul Erd&ouml;s
+    Elementary Divisors of Normal Matrices.
